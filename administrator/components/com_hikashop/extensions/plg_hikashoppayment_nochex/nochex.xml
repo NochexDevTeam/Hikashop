@@ -2,10 +2,10 @@
 <extension type="plugin" version="2.5" method="upgrade" group="hikashoppayment">
 	<name>Hikashop Nochex</name>
 	<creationDate>25th July 2018</creationDate>
-	<version>1.2</version>
+	<version>1.3</version>
 	<author>Nochex</author>
 	<authorEmail>support@nochex.com</authorEmail>
-	<authorUrl>https://www.nochex.com/gb</authorUrl> 
+	<authorUrl>https://www.nochex.com</authorUrl> 
 	<description>This plugin enables your customers to pay by Nochex</description>
 	<files>
 		<filename plugin="nochex">nochex.php</filename>
